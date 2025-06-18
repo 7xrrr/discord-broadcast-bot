@@ -1,0 +1,4 @@
+{
+    "ignore": ["settings.json", "data/*.json"]
+  }
+  
